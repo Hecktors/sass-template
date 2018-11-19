@@ -1,0 +1,12 @@
+.btn {
+  &:link,
+  &:visited {
+    transition: all .2s;
+  }
+  
+  &:hover {
+  }
+  
+  &:active {
+  }
+}
